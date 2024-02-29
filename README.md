@@ -52,11 +52,12 @@
 
 <br>
 
-<div align="center" style="font-size: 50px;">
+<div align="center" style="font-size: 60px;">
   
-  ***Gracias por visitar mi perfil de GitHub***👋
+  <strong><em>Gracias por visitar mi perfil de GitHub</em></strong>👋
 
 </div>
+
 
 <br>
 
