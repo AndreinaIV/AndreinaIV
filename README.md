@@ -5,15 +5,15 @@
 
 
 
-### *Sobre mi*...
+## *Sobre mi*...
 
-- 📚 Estudiante de automatización de pruebas.
-- 🌱 Actualmente estoy aprendiendo de QA.
-- 💬 Interesada en asegurar la calidad y confiaza del software.
-- ✨ Capacidad de trabajo en equipo y autoaprendizaje.
-- 😄 Me motiva la mejora continua.
+📚 Estudiante de automatización de pruebas.
+🌱 Actualmente estoy aprendiendo de QA.
+💬 Interesada en asegurar la calidad y confiaza del software.
+✨ Capacidad de trabajo en equipo y autoaprendizaje.
+😄 Me motiva la mejora continua.
 
-### *Lenguajes*
+## *Lenguajes*
 
 
 <p align="center">
@@ -31,14 +31,14 @@
   </a>
 
   <a href="https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank"> 
-    <img src="https://iconape.com/wp-content/png_logo_vector/css-4.png" width="80"/> 
+    <img src="https://iconape.com/wp-content/png_logo_vector/css-4.png" width="60"/> 
   </a>
 
   <a href="https://aws.amazon.com/es/what-is/sql/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa564y4rdLzkq12XVKSMKmyKLN6i_hE48yt3Bk97StFE0XNoGyzBwSAqBEvR3iZpYQAhg&usqp=CAU" width="80"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa564y4rdLzkq12XVKSMKmyKLN6i_hE48yt3Bk97StFE0XNoGyzBwSAqBEvR3iZpYQAhg&usqp=CAU" width="60"/> 
   </a>
 
-### *Contactarme*🌻
+## *Contáctame* 🌻
 
 <br>
 <div align="center">
@@ -52,7 +52,7 @@
 
 <br>
 
-<div align="center" style="font-size: 24px;">
+<div align="center" style="font-size: 35px;">
   
   ***Gracias por visitar mi perfil de GitHub***👋
 
