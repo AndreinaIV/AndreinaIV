@@ -1,11 +1,13 @@
-### Hola, soy Andreina 👋
+![This is me](https://scoreapps.com/blog/wp-content/uploads/desarrollo-web.png.webp)
 
-<!--
-**AndreinaIV/AndreinaIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Hola, soy Andreina👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ ✨ ✨
+
+###Sobre mi
+
+- 📚 Estudiante de automatización de pruebas
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
