@@ -5,7 +5,7 @@
 
 
 
-### Sobre mi
+### *Sobre mi*...
 
 - 📚 Estudiante de automatización de pruebas.
 - 🌱 Actualmente estoy aprendiendo de QA.
@@ -13,7 +13,7 @@
 - ✨ Capacidad de trabajo en equipo y autoaprendizaje.
 - 😄 Me motiva la mejora continua.
 
-### Lenguajes
+### *Lenguajes*
 
 <p align="center">
   <a href="https://www.oracle.com/co/java/" target="_blank"> 
@@ -27,7 +27,7 @@
   </a>
 
 
-### Contactarme🌻
+### *Contactarme*🌻
 
 <br>
 <div align="center">
@@ -41,10 +41,12 @@
 
 <br>
 
-<div style="text-align: center; font-size: 30px;">
-  <strong>Gracias por visitar mi perfil de GitHub👋</strong>
+<div align="center" style="font-size: 24px;">
+  
+  ***Gracias por visitar mi perfil de GitHub***👋
+
 </div>
 
 <br>
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "center" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
