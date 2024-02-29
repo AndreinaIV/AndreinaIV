@@ -23,7 +23,7 @@
 
   <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51BMMUr2H27skg69TPo-ohN15vKM_fFeX0A&usqp=CAU"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51BMMUr2H27skg69TPo-ohN15vKM_fFeX0A&usqp=CAU" width="100"/> 
   </a>
 
 
