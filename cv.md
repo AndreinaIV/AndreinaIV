@@ -5,7 +5,7 @@
 
 
 
-####Sobre mi
+### Sobre mi
 
 - 📚 Estudiante de automatización de pruebas.
 - 🌱 Actualmente estoy aprendiendo de QA.
@@ -13,9 +13,16 @@
 - ✨ Capacidad de trabajo en equipo y autoaprendizaje.
 - 😄 Me motiva la mejora continua.
 
+### Lenguajes
+
+<p align="center">
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
 
 
-## Contactarme🌻
+### Contactarme🌻
 
 <br>
 <div align="center">
@@ -27,8 +34,10 @@
   </a>
 </div>
 <br>
-
-#Gracias por visitar mi perfil de GitHub👋
+<div style="text-align: center; font-size: 24px;">
+  <strong>Gracias por visitar mi perfil de GitHub👋</strong>
+</div>
 
 <br>
+
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
