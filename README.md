@@ -1,4 +1,4 @@
-![This is me](https://scoreapps.com/blog/wp-content/uploads/desarrollo-web.png.webp)
+![Soy yo](https://raw.githubusercontent.com/AndreinaIV/AndreinaIV/main/EncabezadoAndreina.jpg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&size=40&lines=++Hola!+Soy+Andreina+🌻)](https://git.io/typing-svg)
