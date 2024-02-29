@@ -52,7 +52,7 @@
 
 <br>
 
-<div align="center" style="font-size: 35px;">
+<div align="center" style="font-size: 50px;">
   
   ***Gracias por visitar mi perfil de GitHub***👋
 
