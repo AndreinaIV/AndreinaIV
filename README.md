@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AndreinaIV/AndreinaIV/main/EncabezadoAndreina.jpg" width="200" height="200">
+<img src="https://raw.githubusercontent.com/AndreinaIV/AndreinaIV/main/EncabezadoAndreina.jpg" height="300">
 
 
 
