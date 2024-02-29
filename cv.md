@@ -3,17 +3,14 @@
 #Hola, soy Andreina👋
 
 
- ✨ ✨
+ ✨ 
 
 ###Sobre mi
 
-- 📚 Estudiante de automatización de pruebas
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📚 Estudiante de automatización de pruebas.
+- 🌱 Actualmente estoy aprendiendo de QA.
+- 💬 Interesada en asegurar la calidad y confiaza del software.
+- ✨ Capacidad de trabajo en equipo y autoaprendizaje.
+- 😄 Me motiva la mejora continua.
 
 
