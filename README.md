@@ -44,10 +44,10 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/ andreina-iglesias-valderrama-b0bb66224/" target="_blank"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="andreina-linkedin" />
   </a>
   <a href="mailto:andreina.iv95@gmail.com" target="top" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="andre-email"/>
+    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="andreina-email"/>
   </a>
 </div>
 
