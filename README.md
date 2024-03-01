@@ -8,11 +8,11 @@
 
 ## *Sobre mi*...
 
-📚 Estudiante de automatización de pruebas.
-🌱 Actualmente estoy aprendiendo de QA.
-💬 Interesada en asegurar la calidad y confiaza del software.
-✨ Capacidad de trabajo en equipo y autoaprendizaje.
-😄 Me motiva la mejora continua.
+- 📚 Estudiante de automatización de pruebas.
+- 🌱 Actualmente estoy aprendiendo de QA.
+- 💬 Interesada en asegurar la calidad y confiaza del software.
+- ✨ Capacidad de trabajo en equipo y autoaprendizaje.
+- 😄 Me motiva la mejora continua.
 
 ## *Lenguajes*
 
@@ -46,17 +46,14 @@
   <a href="https://www.linkedin.com/in/ andreina-iglesias-valderrama-b0bb66224/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
   </a>
-    <a href="mailto:andreina.iv95@gmail.com" target="top" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  <a href="mailto:andreina.iv95@gmail.com" target="top" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="andre-email"/>
   </a>
 </div>
 
 <br>
-
 <div align="center" style="font-size: 60px;">
-  
-  <strong><em>Gracias por visitar mi perfil de GitHub</em></strong>👋
-
+   <strong><em>Gracias por visitar mi perfil de GitHub</em></strong>👋
 </div>
 
 
